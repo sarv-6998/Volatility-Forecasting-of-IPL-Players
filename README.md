@@ -36,11 +36,6 @@ Pick Score = Average Fantasy Points / (Average Volatility + ε)
 - Sarvesh Kulkarni  
 - Saket Pitale
 
-## 📬 Feedback
-
-Love cricket + data? Open to collaborations, feedback, or memes!  
-Drop an issue or connect with us on LinkedIn.
-
 ---
 
 **#FantasyCricket #TimeSeries #GARCH #IPL #SportsAnalytics #DataScience**
